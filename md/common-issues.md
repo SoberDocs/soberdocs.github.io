@@ -134,6 +134,8 @@ Roblox sometimes forgets you have a mouse and removes the options.
 ### Solution
 Move your mouse while joining a game.
 
+> This problem should be fixed in Sober version `0.0.0-1ff9f51`. If there is an issue, you should report it on VinegarHQ's Discord server.
+
 ---
 
 ## Automatic download isn't working (Long hang time; falls back to manual install)
