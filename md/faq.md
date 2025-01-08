@@ -19,7 +19,7 @@ In order to run Sober you need:
 ---
 
 ## Q: Is the [GPU here] compatible?
-A: If it was made in the last 8 years or so and has Vulkan support either in Mesa or Nvidia drivers, then yes. If you're not sure, check [GPUInfo](https://vulkan.gpuinfo.org/) and search your graphics card. If it doesn't support Vulkan, you can try the `--opengl` argument when launching Sober to force OpenGL. If it still doesn't work, you're out of luck.
+A: If it was made in the last 8 years or so and has Vulkan support either in Mesa or Nvidia drivers, then yes. If you're not sure, check [GPUInfo](https://vulkan.gpuinfo.org/) and search your graphics card. If it doesn't support Vulkan, Sober should automatically switch to OpenGL. If it doesn't automatically switch, set `use_opengl` to `true` in `~/.var/app/org.vinegarhq.Sober/config/sober/config.json`. If it still doesn't work, you're out of luck.
 
 ![Vulkan Supported](../images/vulkaninfo.png)
 
