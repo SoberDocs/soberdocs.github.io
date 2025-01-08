@@ -198,3 +198,9 @@ Following the order as listed above:
 - Open Chrome and type `chrome://flags/#crostini-gpu-support` into the search bar. Enable it and reboot.
 
 If all else fails, use OpenGL instead by enabling it through the config file.
+
+---
+
+## I can't use slash (/) to enter chat!
+
+Roblox broke the keybind to enter chat on Android builds, specifically on games with legacy chat. There's no way for the Sober devs to readd the keybind. Games that use the modern chat system should work fine.
