@@ -49,3 +49,8 @@ A: There are various issues that could cause this. (You can check [the list of c
 
 ## Q: ARM64 support?
 A: Maybe eventually, but right now there are too many issues to deal with to add support right now.
+
+---
+
+## Q: Will Sober be released on Flathub?
+A: Probably not, if ever. The Sober devs have said that there's no advantages to add Sober on Flathub, other than increasing user count.
