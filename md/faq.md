@@ -54,3 +54,8 @@ A: Maybe eventually, but right now there are too many issues to deal with to add
 
 ## Q: Will Sober be released on Flathub?
 A: Probably not, if ever. The Sober devs have said that there's no advantages to add Sober on Flathub, other than increasing user count.
+
+---
+
+## Q: Does it work with VR?
+A: No, as the Android version doesn't have support for VR. The Quest version is only on built on ARM and under a translation layer, it performs horribly.
