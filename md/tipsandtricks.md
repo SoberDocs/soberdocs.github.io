@@ -54,3 +54,10 @@ Just run `flatpak run org.vinegarhq.Sober "[URL]"`, where URL can accept:
 - `placelauncherurl:https://www.roblox.com/Game/PlaceLauncher.ashx?request=RequestGame&placeId=[place-id]`
 
 > [place-id] is the field where you put the ID of a game
+
+## 6. Blocky lighting and/or bad performance?
+
+You can use OpenGL if you have issues with lighting, performance, and can also help with some other issues like roblox not running because lack of support. (Mentioned in #1)
+
+You can activate openGL by activating hidden files, navigating to /home/ACCOUNTNAME/.var/app/org.vinegarhq.Sober/config/sober/, and opening config.json.
+Then scroll to the bottom and set "use_opengl": false to "use_opengl": true.
